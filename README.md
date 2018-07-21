@@ -1,2 +1,2 @@
-# RecyclerViewItemTouchHelperDemo
-[RecyclerViewItemTouchHelperDemo【使用ItemTouchHelper进行拖拽排序功能】](https://www.cnblogs.com/whycxb/p/9314441.html)
+# RecyclerFullyManagerDemo
+[RecyclerFullyManagerDemo【ScrollView里嵌套Recycleview的自适应高度功能】](https://www.cnblogs.com/whycxb/p/9329217.html)
